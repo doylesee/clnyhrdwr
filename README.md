@@ -12,7 +12,7 @@ Figma Designs:
 
 And here's the final HTML build: <strong><a href="https://doylesee.github.io/clnyhrdwr" rel="noopener noreferrer">doylesee.github.io/clnyhrdwr</a></strong>
 
-<p><a href="https://doylesee.github.io/clnyhrdwr" rel="noopener noreferrer"><img src="https://doylesee.github.io/clnyhrdwr/thumbnail.png" /></a></p>
+<p><a href="https://doylesee.github.io/clnyhrdwr" rel="noopener noreferrer"><img src="https://doylesee.github.io/clnyhrdwr/thumbnail.jpg" /></a></p>
 
 <br />
 
