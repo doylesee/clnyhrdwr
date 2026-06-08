@@ -5,12 +5,11 @@
 <b>Tools:</b>    Figma, Liquid, HTML5, CSS3, JS/jQuery, Foundation
 </pre>
 
-Figma Designs:
-<strong><a href="https://www.figma.com/design/c2nPyol9LrzNOTpp6WpgGf/Colony-Hardware?node-id=1-2&m=dev&t=GELeagRdNkyfmTH9-1" target="_blank" rel="noopener noreferrer">Dev Mode</a></strong>
- | 
- <strong><a href="https://www.figma.com/proto/c2nPyol9LrzNOTpp6WpgGf/Colony-Hardware?node-id=1-2&t=GELeagRdNkyfmTH9-1" target="_blank" rel="noopener noreferrer">Prototype</a></strong>
-
-And here's the final HTML build: <strong><a href="https://doylesee.github.io/clnyhrdwr" rel="noopener noreferrer">doylesee.github.io/clnyhrdwr</a></strong>
+<strong><a href="https://www.figma.com/design/c2nPyol9LrzNOTpp6WpgGf/Colony-Hardware?node-id=1-2&m=dev&t=GELeagRdNkyfmTH9-1" target="_blank" rel="noopener noreferrer">Figma Dev Mode</a></strong>
+&nbsp;&nbsp;
+ <strong><a href="https://www.figma.com/proto/c2nPyol9LrzNOTpp6WpgGf/Colony-Hardware?node-id=1-2&t=GELeagRdNkyfmTH9-1" target="_blank" rel="noopener noreferrer">Figma Prototype</a></strong>
+&nbsp;&nbsp; | &nbsp;&nbsp;
+<strong><a href="https://doylesee.github.io/clnyhrdwr" rel="noopener noreferrer">View Project</a></strong>
 
 <p><a href="https://doylesee.github.io/clnyhrdwr" rel="noopener noreferrer"><img src="https://doylesee.github.io/clnyhrdwr/thumbnail.jpg" /></a></p>
 
@@ -33,4 +32,5 @@ Once the design was locked in, I spent a few spare hours translating it into cod
 ## Results & Impact
 This rapid prototype served as an incredible visual proof of concept that went far beyond the client's expectations. By turning severe creative limitations into a design opportunity, I delivered a stunningly modern frontend experience that showed stakeholders the true potential of their recruitment portal. Spending those few extra hours not only demonstrated my speed as an engineer, but also highlighted my proactive drive to take a bare-bones situation and elevate it into a premium, accessible user experience.
 
-<br /><strong><a href="https://doylesee.github.io/clnyhrdwr/" rel="noopener noreferrer">View project</a></strong>
+<br />
+<strong><a href="https://doylesee.github.io/clnyhrdwr/" rel="noopener noreferrer">View project</a></strong>
