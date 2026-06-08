@@ -5,9 +5,12 @@
 <b>Tools:</b>    Figma, Liquid, HTML5, CSS3, JS/jQuery, Foundation
 </pre>
 
-Figma Designs: <a href="https://www.figma.com/design/c2nPyol9LrzNOTpp6WpgGf/Colony-Hardware?node-id=1-2&m=dev&t=GELeagRdNkyfmTH9-1" target="_blank">Dev Mode</a> | <a href="https://www.figma.com/proto/c2nPyol9LrzNOTpp6WpgGf/Colony-Hardware?node-id=1-2&t=GELeagRdNkyfmTH9-1" target="_blank">Prototype</a>
+Figma Designs:
+<strong><a href="https://www.figma.com/design/c2nPyol9LrzNOTpp6WpgGf/Colony-Hardware?node-id=1-2&m=dev&t=GELeagRdNkyfmTH9-1" target="_blank" rel="noopener noreferrer">Dev Mode</a></strong>
+ | 
+ <strong><a href="https://www.figma.com/proto/c2nPyol9LrzNOTpp6WpgGf/Colony-Hardware?node-id=1-2&t=GELeagRdNkyfmTH9-1" target="_blank" rel="noopener noreferrer">Prototype</a></strong>
 
-And here's the final HTML build: https://doylesee.github.io/clnyhrdwr
+And here's the final HTML build: <strong><a href="https://doylesee.github.io/clnyhrdwr" rel="noopener noreferrer">doylesee.github.io/clnyhrdwr</a></strong>
 
 <br />
 
@@ -28,4 +31,4 @@ Once the design was locked in, I spent a few spare hours translating it into cod
 ## Results & Impact
 This rapid prototype served as an incredible visual proof of concept that went far beyond the client's expectations. By turning severe creative limitations into a design opportunity, I delivered a stunningly modern frontend experience that showed stakeholders the true potential of their recruitment portal. Spending those few extra hours not only demonstrated my speed as an engineer, but also highlighted my proactive drive to take a bare-bones situation and elevate it into a premium, accessible user experience.
 
-<br /><strong><a href="https://doylesee.github.io/clnyhrdwr/">View project</a></strong>
+<br /><strong><a href="https://doylesee.github.io/clnyhrdwr/" rel="noopener noreferrer">View project</a></strong>
