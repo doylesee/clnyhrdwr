@@ -5,14 +5,12 @@
 <b>Tools:</b>    Figma, Liquid, HTML5, CSS3, JS/jQuery, Foundation
 </pre>
 
-<strong><a href="https://www.figma.com/design/c2nPyol9LrzNOTpp6WpgGf/Colony-Hardware?node-id=1-2&m=dev&t=GELeagRdNkyfmTH9-1" target="_blank" rel="noopener noreferrer">Figma Dev Mode</a></strong>
-&nbsp;&nbsp;
- <strong><a href="https://www.figma.com/proto/c2nPyol9LrzNOTpp6WpgGf/Colony-Hardware?node-id=1-2&t=GELeagRdNkyfmTH9-1" target="_blank" rel="noopener noreferrer">Figma Prototype</a></strong>
-&nbsp;&nbsp; | &nbsp;&nbsp;
-<strong><a href="https://doylesee.github.io/clnyhrdwr" rel="noopener noreferrer">View Project</a></strong>
-
-<p><a href="https://doylesee.github.io/clnyhrdwr" rel="noopener noreferrer"><img src="https://doylesee.github.io/clnyhrdwr/thumbnail.jpg" /></a></p>
-
+### Table of Contents
+* [The Challenge](#the-challenge)
+* [My Approach & Implementation](#my-approach--implementation)
+* [Results & Impact](#results--impact)
+* [Figma Dev](https://www.figma.com/design/c2nPyol9LrzNOTpp6WpgGf/Colony-Hardware?node-id=1-2&m=dev&t=GELeagRdNkyfmTH9-1) / [Figma Prototype](https://www.figma.com/proto/c2nPyol9LrzNOTpp6WpgGf/Colony-Hardware?node-id=1-2&t=GELeagRdNkyfmTH9-1)
+* [View Project](https://doylesee.github.io/clnyhrdwr)
 <br />
 
 ## The Challenge
