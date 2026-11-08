@@ -13,6 +13,10 @@
 * [View Project](https://doylesee.github.io/clnyhrdwr)
 <br />
 
+<a href="https://doylesee.github.io/clnyhrdwr/">
+  <img src="screenshot.jpg" alt="" width="100%">
+</a>
+
 ## The Challenge
 The goal was to build a quick Proof of Concept (POC) for a new career site to show what the experience could look like. However, I faced a major creative hurdle as the client did not have any pre-made design mockups available, and their existing corporate website featured a dated, non-modern design. This gave me very little visual foundation or brand guidelines to reference.
 
